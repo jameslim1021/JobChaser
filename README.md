@@ -1,57 +1,37 @@
-# 2nd quarter project proposal 
+# JobChaser
 
-## By: Nik, James, Ono
+Full-Stack, CRUD Web Application for those on the job hunt
 
-> Who uses it?
+## Motivation
 
-People trying to break into the tech industry and experienced professionals
+This was the second project after 11 weeks of attending the Galvanize full-stack web development program and was done in a group of three. [My first project](https://github.com/jameslim1021/Canvas-Basketball-Game) was a purely front-end basketball game using HTML/CSS/Javascript so after learning the back-end portion of the full-stack, my group wanted to build an app that followed the principals of CRUD. As finding a job was (and still is) a top priority, we realized there wasn't a great tool for consolidating job search information. Typically this is done by keeping track of numerous emails, bookmarking job posts, and loose pieces of paper. We wanted to create a central location for users to browse jobs via Indeed.com's API, keep a personal list of jobs they're interested in, and related information to these jobs (notes, application stage, interview questions).
 
-> What outputs? 
+## Screenshots
+Job Search Page
 
-We have decided to implement indeed.com's api along with glassdoor's in order to provide our users with job postings and job reviews during their career pursuit.
+<img src="/public/images/ss1.png" alt="Drawing" style="width: 200px;"/>
 
-> What input? 
+User Job List
 
-Our ideal client would input various information such as job title, company name, salary desired and location.
+<img src="/public/images/ss2.png" alt="Drawing" style="width: 200px;"/>
 
-| List of Technologies |
-| -------------------- |
-| CSS                  |
-| HTML                 |
-| SASS                 |
-| JQUERY               |
-| JAVASCRIPT           |
-| NODE.JS              |
-| PSQL                 |
-| SOCKET.IO            |
-| KNEX                 |
-| JADE                 |
-| EXPRESS              |
-| FOUNDATION           |
- 
+Job Application Information
 
-| APIs Consumed   |
-| --------------- |
-| INDEED.COM      |
-| GLASSDOOR.COM   |
-| LINKEDIN.COM    |
-| MAPS.GOOGLE.COM |
+<img src="/public/images/ss3.png" alt="Drawing" style="width: 200px;"/>
 
+## Technologies Used
 
-| Features                                                                    |
-| --------------------------------------------------------------------------- |
-| Job Applications Lists                                                      |
-| Salary Information                                                          |
-| Interview Questions                                                         |
-| Application Status Notes                                                    |
-| Connections at a particular company                                         |
-| Location                                                                    |
-| Company Information(# of employees,website,star rating,summary of company)  |
-| Sharing with friends                                                        |
-| Personalized features for members                                           |
-| Reviews                                                                     |
+* HTML/CSS(Foundation)
+* Javascript
+* jQuery
+* Node.js
+* Express
+* EJS
+* PostgreSQL
+* Knex
 
-## Goals
+## To-Do
 
-Our goal is to provide our clients with a place to research potential job opportunities and to record and keep track of possible outcomes.
-We would like a user to be able to compare with others in order to land jobs. Comparing interview questions and mutual connections can be crucial with getting an offer.
+* Fix pagination
+* Add more inputs for users (cover letter, phone number, contacts/employees)
+* CSS adjustments
