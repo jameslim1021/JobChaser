@@ -36,7 +36,10 @@ One of the challenges we faced was about working in a group to build an applicat
 
 ## To-Do
 
-* Debug errors to deploy to Heroku
 * Fix pagination
 * Add more inputs for users (cover letter, phone number, contacts/employees)
 * CSS adjustments
+* Debug errors to deploy to Heroku
+
+#### Note:
+Indeed.com only granted a temporary API key for this project. In process of acquiring another.
