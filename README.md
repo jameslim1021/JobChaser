@@ -19,6 +19,10 @@ Job Application Information
 
 <img src="/public/images/ss3.png" alt="Drawing" style="width: 200px;"/>
 
+## Challenges
+
+One of the challenges we faced was about working in a group to build an application. Understanding the process and flow of Github took a bit of time to adjust to. There were more merge conflicts than we expected which were tedious to resolve. Creating a proper, working SQL schema for the data was also challenging to conceptualize. Thus, writing the Knex statements to make Postgres queries was equally difficult. Another challenge was properly rendering a lot of data using the templating engine EJS. There was a good amount of if/else logic to display certain content which was tricky to navigate. Pagination was also a lot more harder than I realized. New found appreciation for the level of difficulty in programming small features like pagination that are seemingly trivial for the casual user.
+
 ## Technologies Used
 
 * HTML/CSS(Foundation)
@@ -32,6 +36,7 @@ Job Application Information
 
 ## To-Do
 
+* Debug errors to deploy to Heroku
 * Fix pagination
 * Add more inputs for users (cover letter, phone number, contacts/employees)
 * CSS adjustments
