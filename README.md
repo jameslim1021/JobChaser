@@ -9,19 +9,19 @@ This was the second project after 11 weeks of attending the Galvanize full-stack
 ## Screenshots
 Job Search Page
 
-<img src="/public/images/ss1.png" alt="Drawing" style="width: 200px;"/>
+><img src="/public/images/ss1.png" alt="Drawing" style="width: 200px;"/>
 
 User Job List
 
-<img src="/public/images/ss2.png" alt="Drawing" style="width: 200px;"/>
+><img src="/public/images/ss2.png" alt="Drawing" style="width: 200px;"/>
 
 Job Application Information
 
-<img src="/public/images/ss3.png" alt="Drawing" style="width: 200px;"/>
+><img src="/public/images/ss3.png" alt="Drawing" style="width: 200px;"/>
 
 ## Challenges
 
-One of the challenges we faced was about working in a group to build an application. Understanding the process and flow of Github took a bit of time to adjust to. There were more merge conflicts than we expected which were tedious to resolve. Creating a proper, working SQL schema for the data was also challenging to conceptualize. Thus, writing the Knex statements to make Postgres queries was equally difficult. Another challenge was properly rendering a lot of data using the templating engine EJS. There was a good amount of if/else logic to display certain content which was tricky to navigate. Pagination was also a lot more harder than I realized. New found appreciation for the level of difficulty in programming small features like pagination that are seemingly trivial for the casual user.
+One of the challenges we faced was about working in a group to build an application. Understanding the process and flow of Github took a bit of time to adjust to. There were more merge conflicts than we expected which were tedious to resolve. Creating a proper, working SQL schema for the data was also challenging to conceptualize. Thus, writing the Knex statements to make Postgres queries was equally difficult. Another challenge was properly rendering a lot of data using the templating engine EJS. There was a good amount of if/else logic to display certain content which was tricky to navigate. Pagination was also a lot harder than I realized. New found appreciation for the level of difficulty in programming small features like pagination that are seemingly trivial for the casual user.
 
 ## Technologies Used
 
